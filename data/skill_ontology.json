@@ -1,0 +1,92 @@
+{
+  "skills": {
+    "Programming Languages": {
+      "Python": {
+        "levels": ["Basic", "Intermediate", "Advanced", "Expert"],
+        "related": ["Data Science", "Web Development", "Automation"]
+      },
+      "JavaScript": {
+        "levels": ["Basic", "Intermediate", "Advanced", "Expert"],
+        "related": ["Web Development", "Frontend", "Node.js"]
+      },
+      "Java": {
+        "levels": ["Basic", "Intermediate", "Advanced", "Expert"],
+        "related": ["Enterprise Development", "Android"]
+      }
+    },
+    "Data Science": {
+      "Machine Learning": {
+        "levels": ["Basic", "Intermediate", "Advanced", "Expert"],
+        "related": ["Python", "Statistics", "Deep Learning"]
+      },
+      "Data Analysis": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Python", "SQL", "Pandas", "Data Visualization"]
+      },
+      "Data Visualization": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Python", "Matplotlib", "Seaborn", "Plotly"]
+      }
+    },
+    "Project Management": {
+      "Agile": {
+        "levels": ["Practitioner", "Scrum Master", "Coach"],
+        "related": ["Project Management", "Software Development"]
+      },
+      "Scrum": {
+        "levels": ["Team Member", "Scrum Master", "Product Owner"],
+        "related": ["Agile", "Project Management"]
+      },
+      "Risk Management": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Project Management", "Strategic Planning"]
+      }
+    },
+    "Soft Skills": {
+      "Communication": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Teamwork", "Leadership"]
+      },
+      "Leadership": {
+        "levels": ["Team Lead", "Manager", "Director", "Executive"],
+        "related": ["Communication", "Strategic Thinking"]
+      },
+      "Problem Solving": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Critical Thinking", "Decision Making"]
+      }
+    },
+    "Cloud & DevOps": {
+      "AWS": {
+        "levels": ["Practitioner", "Associate", "Professional", "Expert"],
+        "related": ["Cloud Computing", "DevOps"]
+      },
+      "Docker": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Containerization", "DevOps"]
+      },
+      "Kubernetes": {
+        "levels": ["Basic", "Intermediate", "Advanced"],
+        "related": ["Container Orchestration", "Cloud Native"]
+      }
+    }
+  },
+  "learning_resources": {
+    "Python": [
+      {"name": "Python Crash Course", "type": "Book", "level": "Beginner"},
+      {"name": "Automate the Boring Stuff with Python", "type": "Book", "level": "Beginner"},
+      {"name": "Python for Data Science", "type": "Course", "level": "Intermediate"},
+      {"name": "Advanced Python Programming", "type": "Course", "level": "Advanced"}
+    ],
+    "Machine Learning": [
+      {"name": "Introduction to Machine Learning", "type": "Course", "level": "Beginner"},
+      {"name": "Hands-On Machine Learning with Scikit-Learn and TensorFlow", "type": "Book", "level": "Intermediate"},
+      {"name": "Advanced Deep Learning with Python", "type": "Course", "level": "Advanced"}
+    ],
+    "Leadership": [
+      {"name": "The 21 Irrefutable Laws of Leadership", "type": "Book", "level": "All"},
+      {"name": "Leadership and Management Certificate Program", "type": "Course", "level": "Intermediate"},
+      {"name": "Executive Leadership Training", "type": "Workshop", "level": "Advanced"}
+    ]
+  }
+}
