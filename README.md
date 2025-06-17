@@ -105,6 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by [Harsha P]
 - Skill taxonomy based on O*NET and ESCO frameworks
 - Powered by Streamlit, spaCy, and scikit-learn
